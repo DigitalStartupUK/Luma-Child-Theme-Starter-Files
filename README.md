@@ -8,7 +8,7 @@ Note: That this was created with Magento 2.3 in mind.
 
 1. Upload these files to the following Magento 2 directory: `app/design/frontend`
 2. Update your theme in the Magento Backend: `Content > Design > Configuration > (Select Edit on your Store View) > Default Theme > Applied Theme > "Magento Luma Child"`
-3. Clear Magento Cache: `System > Cache Management > Flush Magento Cache
+3. Clear Magento Cache: `System > Cache Management > Flush Magento Cache`
 
 Now any changes you make to your child theme will be reflected on the Frontend
 
