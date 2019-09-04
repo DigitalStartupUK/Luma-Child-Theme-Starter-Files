@@ -14,6 +14,6 @@ Now any changes you make to your child theme will be reflected on the Frontend
 
 ## Useful Resources
 
-* [Digital Startup Forum](https://discuss.digitalstartup.co.uk/)
+* [Digital Startup Forum](https://digitalstartup.co.uk/)
 * [Digital Startup YouTube Channel](https://www.youtube.com/channel/UCacwUJ5gxGgBXkqea0j122A)
 * [Official Magento 2 Documentation on Frontend Development](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-general.html)
